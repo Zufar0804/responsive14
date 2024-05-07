@@ -1,0 +1,135 @@
+.container{
+    width: 1280px;
+    height: 115vh;
+    margin: 0 auto;
+}
+section{
+    background-image: url(./images/coffee_2.png);
+    width: 100%;
+    height: 450px;
+    position: relative;
+}
+.btn{
+    padding: 90px;
+}
+.btn h1{
+    font-family: Fraunces 9pt;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 48px;
+    text-align: left;
+    color: white;
+    /* padding: 100px; */
+}
+.btn p{
+    width: 445px;
+    height: 104px;
+    font-family: Barlow;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: white;
+    
+}
+.btn1{
+    display: flex;
+    justify-content: space-around;
+    width: 1110px;
+    height: 520px;
+    margin-top: 50px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.btn2{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.btn3{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.btn3 h1{
+    font-family: Fraunces 9pt;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 48px;
+    text-align: left;
+    width: 357px;
+    height: 48px;
+
+}
+.btn3 p{
+    font-family: Barlow;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    width: 540px;
+    height: 260px;
+    top: 80px;
+    gap: 0px;
+    opacity: 0.8px;
+
+}
+.btn4 h1{
+    width: 517px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Fraunces 9pt;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 48px;
+    text-align: left;
+    color: white;
+}
+.btn4{
+    margin-top: 100px;
+    width: 1280px;
+    height: 474px;
+    background-color:darkslateblue;
+    display: flex;
+}
+.btn5{
+    position: relative;
+    margin-left: 100px;
+}
+.btn5 p{
+    width: 540px;
+    height: 130px;
+    color: white;
+}
+
+.btn6 img {
+    position:absolute;
+    width: 445px;
+    height: 474px;
+    margin-top: -100px;
+    margin-left: 100px;
+}
+.btn8 h1{
+    color: grey;
+    width: 1045px;
+    height: 366px;
+}
+.btn9{
+    display: flex;
+    justify-content: space-between;
+    width: 1280px;
+    height: 262px;
+}
+.btn10{
+    width: 285px;
+    height: 250px;
+    margin-top: -300px;
+    margin-left: 80px;
+}
+.btn11{
+    margin-top: -350px;
+    color: grey;
+}
+footer{
+    margin-top: 1500px;
+}
